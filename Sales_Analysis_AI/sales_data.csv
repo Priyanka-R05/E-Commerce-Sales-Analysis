@@ -1,0 +1,10 @@
+Product,Category,Price,Quantity,Date,Total_Sales
+Laptop,Electronics,50000,2,10-01-2026,100000
+Mobile,Electronics,20000,5,12-01-2026,100000
+Shoes,Fashion,2500,10,15-01-2026,25000
+Watch,Accessories,3000,8,18-01-2026,24000
+Headphones,Electronics,1500,15,20-01-2026,22500
+T-shirt,Fashion,800,20,22-01-2026,16000
+Tablet,Electronics,30000,3,28-01-2026,90000
+Bag,Fashion,1200,12,30-01-2026,14400
+Book,Education,500,30,02-02-2026,15000
