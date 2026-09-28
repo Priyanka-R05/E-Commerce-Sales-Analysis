@@ -45,6 +45,9 @@ E-Commerce-Sales-Analysis/
 ├── sales_data.csv
 ├── analysis.py
 ├── app.py
+├── sales_model.pkl
+├── screenshots/
+│   └── project_screenshot.png
 └── README.md
 ```
 
